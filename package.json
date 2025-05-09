@@ -1,8 +1,7 @@
 {
-"engines":{
-"node":"20.10.0"
-},
-
+  "engines": {
+    "node": "20.10.0"
+  },
   "name": "xproject2",
   "version": "1.0.0",
   "main": "app.js",
@@ -32,5 +31,6 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0"
   },
+  "devDependencies": {},
   "description": ""
 }
