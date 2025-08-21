@@ -43,12 +43,13 @@ cd wanderlast
 npm install
 
 # 3. Create a .env file and add your environment variables
-# (⚠️ Do NOT share .env or secret keys publicly.)
+
 
 # 4. Start the server
 npm start
 
 # App will generally run on:
 # http://localhost:3000
+
 
 
